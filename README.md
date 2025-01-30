@@ -45,11 +45,11 @@ To use JiraSQL, you must have installed the JiraSQL add-on.
 
 Once you have have installed the JiraSQL add-on, download the file `JiraSQL_install.ps1` and `JiraSQL-local.exe`
 
-In the Chrome browser, open the url (chrome://extensions) to get the add-on id :
+In the Chrome browser, open the url (chrome://extensions) to get the add-on id:
 
 ![image](https://github.com/user-attachments/assets/eb189e08-d0ca-4ef1-9071-9f9ea1027587)
 
-Open the powershell console in Administrator mode :
+Open the powershell console in Administrator mode:
 
 ![image](https://github.com/user-attachments/assets/1e48a7e1-7d36-4fad-bc07-d27c294bca28)
 
@@ -57,3 +57,6 @@ In this powershell console, run the file `JiraSQL_install.ps1` and provide the C
 
 ![image](https://github.com/user-attachments/assets/bc4be713-4efc-4cd7-9b5e-30f752df9c7e)
 
+You might now test the installation in the Chrome preferences page:
+
+![image](https://github.com/user-attachments/assets/d2fd13db-1c58-42a9-a0c8-5200bec757b0)
