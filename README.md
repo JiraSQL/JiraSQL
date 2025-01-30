@@ -4,6 +4,8 @@
 
 ![image](https://github.com/user-attachments/assets/eb189e08-d0ca-4ef1-9071-9f9ea1027587)
 
+![image](https://github.com/user-attachments/assets/7c221323-8f18-47cd-a046-68967cef11a5)
+
 <!--
 **JiraSQL/JiraSQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
