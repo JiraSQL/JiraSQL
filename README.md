@@ -48,15 +48,6 @@ Once you have have installed the JiraSQL add-on, download the file [JiraSQL_inst
 This will creates :
 * 2 keys in the registry for the native messaging communication between the add-on and the executable file (one for Chrome and for Firefox)
 * a directory `JiraSQL` in your `Program Files` directory containing :
-** the executable file
-** a manifest file for the Chrome add-on
-** a manifest file for the Firefox add-on
-
-
-In this powershell console, run the file `JiraSQL_install.ps1` and provide the Chrome add-on id:
-
-![image](https://github.com/user-attachments/assets/bc4be713-4efc-4cd7-9b5e-30f752df9c7e)
-
-You might now test the installation in the Chrome preferences page:
-
-![image](https://github.com/user-attachments/assets/d2fd13db-1c58-42a9-a0c8-5200bec757b0)
+  * the executable file
+  * a manifest file for the Chrome add-on
+  * a manifest file for the Firefox add-on
