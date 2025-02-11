@@ -43,15 +43,15 @@ To use JiraSQL, you must have installed the JiraSQL add-on.
 ## Native-messaging
 <sup>[(Back to top)](#table-of-contents)</sup>
 
-Once you have have installed the JiraSQL add-on, download the file `JiraSQL_install.ps1` and `JiraSQL-local.exe`
+Once you have have installed the JiraSQL add-on, download the file `[JiraSQL_installer.exe](https://github.com/JiraSQL/JiraSQL/blob/main/JiraSQL_installer.exe)`
 
-In the Chrome browser, open the url (chrome://extensions) to get the add-on id:
+This will creates :
+* 2 keys in the registry for the native messaging communication between the add-on and the executable file (one for Chrome and for Firefox)
+* a directory `JiraSQL` in your `Program Files` directory containing :
+* * the executable file
+* * a manifest file for the Chrome add-on
+* * a manifest file for the Firefox add-on
 
-![image](https://github.com/user-attachments/assets/eb189e08-d0ca-4ef1-9071-9f9ea1027587)
-
-Open the powershell console in Administrator mode:
-
-![image](https://github.com/user-attachments/assets/1e48a7e1-7d36-4fad-bc07-d27c294bca28)
 
 In this powershell console, run the file `JiraSQL_install.ps1` and provide the Chrome add-on id:
 
